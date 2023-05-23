@@ -25,7 +25,7 @@ For transparency, the .LRC files are created in two ways:
  1. Downloaded from [YouTube (.SRT)](https://downsub.com/) then converted to [.LRC](https://toolslick.com/conversion/subtitle/srt-to-lrc) using the mentioned existing tools; further adjustments maybe required (such as changing the language of the lyrics (just Google to see if someone made the lyrics of the song in your langauge) or mismatched timestamps).
  2. My ears, my eyes, my hand, and [my tool](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC).
 
-If you need to (a.) shift the timestamp by ±X.XX, or (b.) keeping the timestamp but changing the lyrics to another language with existing set, you may try out [my tool (Lyrics Editor for .LRC)](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC).
+If you need to (a.) shift the timestamp by ±X.XX seconds, or (b.) keeping the timestamp but changing the lyrics to another language with existing set, you may try out [my tool (Lyrics Editor for .LRC)](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC).
 
 ## ■ "One" last side note
 Please also be informed that the majority of the J-Pop and Chinese .LRC files are in Chinese (Traditional). However, it is way more important to have the timestamp of the lyrics instead of the lyrics itself. You can always change the lyrics by searching on Google whether someone posted the lyrics in your language and update it using [my tool](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC).
