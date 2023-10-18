@@ -28,7 +28,7 @@ For transparency, the .LRC files are created in two ways:
 If you need to (a.) shift the timestamp by ±X.XX seconds, or (b.) keeping the timestamp but changing the lyrics to another language with existing set, you may try out [my tool (Lyrics Editor for .LRC)](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC).
 
 ## ■ "One" last side note
-Please also be informed that the majority of the J-Pop and Chinese .LRC files are in Chinese (Traditional). However, it is way more important to have the timestamp of the lyrics instead of the lyrics itself. You can always change the lyrics by searching on Google whether someone posted the lyrics in your language and update it using [my tool](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC).
+Please also be informed that the majority of the J-Pop and Chinese .LRC files are in Chinese (Traditional). However, it is way more important to have the timestamp of the lyrics instead of the lyrics itself. You can always change the lyrics by searching on Google whether someone posted the lyrics in your language and merge it with [my tool](https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC), or choices of yours.
 
 This repo is updated manually. It used the Windows ["`XCOPY`"](https://ss64.com/nt/xcopy.html) function to copy and paste the .LRC files from my collection to this repo. I cannot garentee regular updates in this repo but I will try my best to keep it up-to-date.
 
