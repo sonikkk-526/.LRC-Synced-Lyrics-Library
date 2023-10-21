@@ -1,6 +1,6 @@
 # .LRC (Synced Lyrics) Library
 <p align="center">
-  <img alt="Editor-Icon" src="https://github.com/sonikkk-526/Lyrics-Editor-for-.LRC/blob/main/jar%20build%20and%20clean/editor_icon.png"><br><br>
+  <img alt="Editor-Icon" src="https://raw.githubusercontent.com/sonikkk-526/Lyrics-Editor-for-.LRC/main/assets/editor_icon.ico"><br><br>
   
   <a href="https://github.com/sonikkk-526">
     <img alt="Author" src="https://img.shields.io/badge/Author-sonikkk-blue?style=for-the-badge">
