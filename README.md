@@ -35,6 +35,6 @@ This repo is updated manually. It used the Windows ["`XCOPY`"](https://ss64.com/
 **Last Update:** _5/22/2023_
 
 ## ■ License & Author
-Created by sonikkk-526 (previously known as FlashSonic526).
+Created by sonikkk.
 
 Licensed under the [BSD-3 Clause License](LICENSE).
